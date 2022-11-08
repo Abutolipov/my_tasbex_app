@@ -99,7 +99,7 @@ class _DeterminatePageState extends State<DeterminatePage> {
                     ),
                     IconButton(
                       iconSize: 35,
-                      padding: EdgeInsets.only(top: 80, left: 10, right: 15),
+                      padding: EdgeInsets.only(top: 81, left: 11, right: 15),
                       color: Colors.white12,
                       onPressed: () {
                         setState(
@@ -184,7 +184,7 @@ class _DeterminatePageState extends State<DeterminatePage> {
                       progressValue.toStringAsFixed(0),
                       style: const TextStyle(
                           color: Colors.white,
-                          fontSize: 40.0,
+                          fontSize: 41.0,
                           fontWeight: FontWeight.bold),
                     ),
                   ),
