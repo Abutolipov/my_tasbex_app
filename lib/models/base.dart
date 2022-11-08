@@ -125,7 +125,7 @@ class _DeterminatePageState extends State<DeterminatePage> {
       ),
       body: Center(
         child: ListView(
-          padding: EdgeInsets.only(top: 230),
+          padding: EdgeInsets.only(top: 232),
           children: [
             GestureDetector(
               onTap: () {
@@ -149,8 +149,8 @@ class _DeterminatePageState extends State<DeterminatePage> {
     return Row(
       children: [
         Container(
-          height: 220,
-          width: 220,
+          height: 219,
+          width: 219,
           child: SfRadialGauge(
             axes: <RadialAxis>[
               RadialAxis(
