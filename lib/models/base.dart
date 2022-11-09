@@ -125,7 +125,7 @@ class _DeterminatePageState extends State<DeterminatePage> {
       ),
       body: Center(
         child: ListView(
-          padding: EdgeInsets.only(top: 232),
+          padding: EdgeInsets.only(top: 231),
           children: [
             GestureDetector(
               onTap: () {
